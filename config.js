@@ -9,7 +9,7 @@ const {CookieAccessInfo, CookieJar, Cookie} = cookiejar
 
 let config = {
     httpprefix: 'https', port: 443,
-    serverName: 'proxy.netptop.com',
+    serverName: 'lee.0899.com',
 }
 let blockedSites = ['www.chase.com'] // accessing to chase.com was reported by google
 
